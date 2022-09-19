@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ltmle",
+    "oncran": true
+  }
+]
