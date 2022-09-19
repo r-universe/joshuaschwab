@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ltmle"]
-	path = ltmle
-	url = https://github.com/joshuaschwab/ltmle
-	shallow = true
-	registered = true
